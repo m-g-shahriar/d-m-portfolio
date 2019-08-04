@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150.945" height="201.257" viewBox="0 0 150.945 201.257">
+  <defs>
+    <clipPath id="clip-path">
+      <rect width="150.945" height="201.257" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Repeat_Grid_1" data-name="Repeat Grid 1" clip-path="url(#clip-path)">
+    <g transform="translate(-1201.532 -3509.743)">
+      <g id="medal" transform="translate(1187.532 3501.743)">
+        <path id="Path_2" data-name="Path 2" d="M83.087,10A67.087,67.087,0,1,1,16,77.087,67.095,67.095,0,0,1,83.087,10Z" transform="translate(6.386 6.386)" fill="#ff8a65"/>
+        <path id="Path_3" data-name="Path 3" d="M105.858,38.49V99.329a4.2,4.2,0,0,1-6.164,3.69L67.661,83.438a8.348,8.348,0,0,0-7.463,0L28.164,103.019A4.2,4.2,0,0,1,22,99.329V38.49A66.745,66.745,0,0,0,63.929,53.207,66.745,66.745,0,0,0,105.858,38.49Z" transform="translate(25.543 97.352)" fill="#4dd0e1"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(14 8)">
+          <path id="Path_4" data-name="Path 4" d="M89.472,8A75.471,75.471,0,0,0,39.157,139.725v56.957A12.587,12.587,0,0,0,57.594,207.8c.168-.088.327-.18.486-.277l31.392-19.191,31.392,19.187c.159.1.323.193.486.277a12.512,12.512,0,0,0,12.382-.382,12.455,12.455,0,0,0,6.055-10.738V139.725A75.471,75.471,0,0,0,89.472,8Zm8.1,165.637a6.446,6.446,0,0,0-.621-.344,16.758,16.758,0,0,0-14.969,0,6.439,6.439,0,0,0-.621.344L55.929,189.184V151a74.829,74.829,0,0,0,67.087,0v38.176Zm28.575-44.332a58.711,58.711,0,0,1-73.359,0s0,0-.008-.008a58.7,58.7,0,1,1,73.368.008Z" transform="translate(-14 -8)" fill="#012e52"/>
+        </g>
+      </g>
+      <text id="_5" data-name="5" transform="translate(1253 3609)" fill="#fff" font-size="85" font-family="CenturyGothic-Bold, Century Gothic" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+    </g>
+  </g>
+</svg>
